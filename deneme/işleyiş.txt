@@ -1,0 +1,17 @@
+1- veri tabanı tabloları oluşturmak
+2- tema parcalama işlemleri yapılması 
+3- gerekli olan sayfaları parcalama ve üye girişi kayıt  404 vbvb
+4- sistem klasörünün oluştutlması 
+5-function.php dosyamızın ve config.php dosyamızın oluşturup kodların yazılması 
+6-confi.php de sesion yapılandırılmasının yapılması + bakımdayız modunu kontrol edilmesi
+7-bayi kayıt işlemlerinin yapılması
+8-bayi giriş işlemlerinin yapılması  
+9-bayi profil işlemlerinin tamamlaması ve adreslerim sparişlerimim havale bildirimlerim 
+10- ana sayfada vitrin ürünlerinin listelenmesi 
+11-katagorilere göre ürünlerin listelenmesi
+13- ürün detay kısmının yapılması 
+14-iletişim hakkımızda 
+15-ürün sepete ekleme işlemleri ve sepetein gösterimi
+16-ödeme sayfasına gecis ve toplam tutarın ürün isimleriyle birlikte gösterim ve ödeme yap butonu ve adres secimi ödeme tipini seçimi
+17-sparişin tamamlanması ve teşkkürler sayfası siparişlerim kısmına yönlendirme işlemleri 
+18-fiyata göre ürün filitresinin aktif etme 
